@@ -1,0 +1,23 @@
+digraph DFA {
+	rankdir=LR
+	A [color=blue]
+	A -> B [label=a]
+	A [color=blue]
+	A -> C [label=b]
+	B [color=black]
+	B -> B [label=a]
+	B [color=black]
+	B -> D [label=b]
+	C [color=black]
+	C -> B [label=a]
+	C [color=black]
+	C -> C [label=b]
+	D [color=black]
+	D -> B [label=a]
+	D [color=black]
+	D -> E [label=b]
+	E [color=red shape=doublecircle]
+	E -> B [label=a]
+	E [color=red shape=doublecircle]
+	E -> C [label=b]
+}

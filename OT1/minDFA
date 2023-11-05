@@ -1,0 +1,19 @@
+digraph newDFA {
+	rankdir=LR
+	C [color=red shape=doublecircle]
+	C -> C [label=a]
+	C [color=red shape=doublecircle]
+	C -> C [label=b]
+	A [color=black]
+	A -> C [label=a]
+	A [color=black]
+	A -> B [label=b]
+	B [color=black]
+	B -> A [label=a]
+	B [color=black]
+	B -> C [label=b]
+	S [color=black]
+	S -> A [label=a]
+	S [color=black]
+	S -> B [label=b]
+}
