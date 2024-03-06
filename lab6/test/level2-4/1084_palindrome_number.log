@@ -1,0 +1,586 @@
+进没进去啊服了
+函数总该有吧
+进没进去啊服了
+creating TYPE Size: 32
+创好了mo "4"
+ff1
+进来了
+ff1
+ff1
+LVal成功
+creating TYPE Size: 32
+创好了mo "0"
+LVal成功
+creating TYPE Size: 32
+创好了mo "4"
+start operand
+operand
+over3
+进没进去啊服了
+LVal成功
+LVal成功
+creating TYPE Size: 32
+创好了mo "10"
+start operand
+operand
+over3
+进来了
+LVal成功
+LVal成功
+creating TYPE Size: 32
+创好了mo "10"
+start operand
+operand
+over3
+LVal成功
+LVal成功
+creating TYPE Size: 32
+创好了mo "1"
+start operand
+operand
+over3
+是你吗哥
+你是哪里有毛病1
+你是哪里有毛病2
+你是哪里有毛病3
+你是哪里有毛病4
+creating TYPE Size: 32
+创好了mo "0"
+creating TYPE Size: 32
+创好了mo "3"
+start operand
+operand
+over3
+creating TYPE Size: 32
+创好了mo "1"
+creating TYPE Size: 32
+创好了mo "2"
+start operand
+operand
+over3
+start operand
+operand
+over3
+进没进去啊服了
+LVal成功
+creating TYPE Size: 32
+创好了mo "1"
+进来了
+是你吗哥
+你是哪里有毛病1
+你是哪里有毛病2
+你是哪里有毛病3
+你是哪里有毛病4
+进没进去啊服了
+LVal成功
+creating TYPE Size: 32
+创好了mo "0"
+进来了
+是你吗哥
+你是哪里有毛病1
+你是哪里有毛病2
+你是哪里有毛病3
+你是哪里有毛病4
+想不到吧我是int
+这么牛？！LVal成功
+结束了？
+是你吗哥
+你是哪里有毛病1
+你是哪里有毛病2
+你是哪里有毛病3
+你是哪里有毛病4
+是你是你1
+是你是你2
+是你是你3
+是你是你4
+是你是你5
+是你是你6
+进来了
+函数总该有吧
+进没进去啊服了
+ff1
+进来了
+LVal成功
+creating TYPE Size: 32
+创好了mo "1221"
+ff1
+LVal成功
+LVal成功
+(IdentifierSymbolEntry *)se)->isSysy()0
+LVal成功
+creating TYPE Size: 32
+创好了mo "1"
+start operand
+operand
+over3
+LVal成功
+(IdentifierSymbolEntry *)se)->isSysy()1
+sys没问题？
+进没进去啊服了
+LVal成功
+creating TYPE Size: 32
+创好了mo "0"
+进来了
+LVal成功
+(IdentifierSymbolEntry *)se)->isSysy()1
+sys没问题？
+是你吗哥
+你是哪里有毛病1
+你是哪里有毛病2
+你是哪里有毛病3
+你是哪里有毛病4
+想不到吧我是int
+这么牛？！LVal成功
+creating TYPE Size: 32
+创好了mo "10"
+LVal成功
+(IdentifierSymbolEntry *)se)->isSysy()1
+sys没问题？
+creating TYPE Size: 32
+创好了mo "0"
+结束了？
+是你吗哥
+你是哪里有毛病1
+你是哪里有毛病2
+你是哪里有毛病3
+你是哪里有毛病4
+是你是你1
+是你是你2
+是你是你3
+是你是你4
+是你是你5
+是你是你6
+哈哈 gencode AST
+哈哈 ast->gencode->irbuilder start
+哈哈 ast->gencode->irbuilder over1
+哈哈 Node->setirbuilder start
+哈哈 Node->setirbuilder over
+哈哈 ast->gencode->irbuilder over1
+哈哈 gencode funcdef
+哈哈 gencode decl
+alloca-start
+alloca-over
+你插不插???
+哈哈 gencode decl
+alloca-start
+alloca-over
+哈哈 gencode decl
+alloca-start
+alloca-over
+哈哈 gencode decl
+alloca-start
+alloca-over
+哈哈 gencode assign
+哈哈 gencode Constant
+你插不插???
+你插不插???
+哈哈 gencode binary
+哈哈 gencode ID
+你插不插???
+哈哈 gencode Constant
+你插不插???
+你插不插???
+你插不插???
+你行不行0
+你行不行0
+哈哈 gencode assign
+哈哈 gencode binary
+哈哈 gencode ID
+你插不插???
+哈哈 gencode Constant
+就是这俩的gencode结束了
+哈哈 然后呢
+你插不插???
+这个instruction？
+哈哈 gencode ID
+哈哈 gencode ID
+你插不插???
+你插不插???
+你插不插???
+哈哈 gencode assign
+哈哈 gencode binary
+哈哈 gencode ID
+你插不插???
+哈哈 gencode Constant
+就是这俩的gencode结束了
+哈哈 然后呢
+你插不插???
+这个instruction？
+你插不插???
+哈哈 gencode assign
+哈哈 gencode binary
+哈哈 gencode ID
+你插不插???
+哈哈 gencode Constant
+就是这俩的gencode结束了
+哈哈 然后呢
+你插不插???
+这个instruction？
+你插不插???
+你插不插???
+哈哈 gencode Ifelse
+哈哈 gencode binary
+哈哈 gencode binary
+哈哈 gencode ID
+哈哈 gencode Constant
+你插不插???
+你插不插???
+哈哈 gencode ID
+哈哈 gencode Constant
+你插不插???
+你插不插???
+你插不插???
+你插不插???
+你插不插???
+你行不行0
+哈哈 gencode binary
+哈哈 gencode ID
+哈哈 gencode Constant
+你插不插???
+你插不插???
+哈哈 gencode ID
+哈哈 gencode Constant
+你插不插???
+你插不插???
+你插不插???
+你插不插???
+你插不插???
+你行不行0
+你行不行0
+你行不行1
+哈哈 gencode assign
+哈哈 gencode Constant
+你插不插???
+你插不插???
+哈哈 gencode assign
+哈哈 gencode Constant
+你插不插???
+你插不插???
+哈哈 gencode return
+哈哈 gencode ID
+你插不插???
+return-new
+你插不插???
+插进去了一个src
+到这里了但是不进去吗
+instruction1-start
+ins1-over & ins2-start
+ins2-over
+instruction1-start
+ins1-over & ins2-start
+ins2-over
+instruction1-start
+ins1-over & ins2-start
+ins2-over
+instruction1-start
+ins1-over & ins2-start
+ins2-over
+instruction1-start
+ins1-over & ins2-start
+ins2-over
+ret???????
+你插不插???
+插进去了一个src
+instruction1-start
+ins1-over & ins2-start
+ins2-over
+ret???????
+你插不插???
+插进去了一个src
+instruction1-start
+ins1-over & ins2-start
+ins2-over
+instruction1-start
+ins1-over & ins2-start
+ins2-over
+instruction1-start
+ins1-over & ins2-start
+ins2-over
+instruction1-start
+ins1-over & ins2-start
+ins2-over
+instruction1-start
+ins1-over & ins2-start
+ins2-over
+instruction1-start
+ins1-over & ins2-start
+ins2-over
+ret???????
+你插不插???
+插进去了一个src
+instruction1-start
+ins1-over & ins2-start
+ins2-over
+ret???????
+你插不插???
+插进去了一个src
+instruction1-start
+ins1-over & ins2-start
+ins2-over
+instruction1-start
+ins1-over & ins2-start
+ins2-over
+ret???????
+你插不插???
+插进去了一个src
+instruction1-start
+ins1-over & ins2-start
+ins2-over
+ret???????
+你插不插???
+插进去了一个src
+instruction1-start
+ins1-over & ins2-start
+ins2-over
+哈哈 gencode funcdef
+哈哈 gencode decl
+alloca-start
+alloca-over
+哈哈 gencode assign
+哈哈 gencode Constant
+你插不插???
+哈哈 gencode decl
+alloca-start
+alloca-over
+哈哈 gencode assign
+哈哈 gencode ID
+你插不插???
+12345你插不插???
+678910
+你插不插???
+哈哈 gencode Ifelse
+哈哈 gencode binary
+哈哈 gencode ID
+你插不插???
+哈哈 gencode Constant
+你插不插???
+你插不插???
+你插不插???
+你行不行0
+你行不行0
+哈哈 gencode ID
+你插不插???
+12345你插不插???
+678910
+你插不插???
+哈哈 gencode assign
+哈哈 gencode Constant
+你插不插???
+哈哈 gencode ID
+你插不插???
+12345你插不插???
+678910
+你插不插???
+哈哈 gencode assign
+哈哈 gencode Constant
+你插不插???
+哈哈 gencode ID
+你插不插???
+12345你插不插???
+678910
+哈哈 gencode return
+哈哈 gencode Constant
+return-new
+你插不插???
+插进去了一个src
+到这里了但是不进去吗
+instruction1-start
+ins1-over & ins2-start
+ins2-over
+instruction1-start
+ins1-over & ins2-start
+ins2-over
+instruction1-start
+ins1-over & ins2-start
+ins2-over
+instruction1-start
+ins1-over & ins2-start
+ins2-over
+instruction1-start
+ins1-over & ins2-start
+ins2-over
+ret???????
+你插不插???
+插进去了一个src
+instruction1-start
+ins1-over & ins2-start
+ins2-over
+ret???????
+你插不插???
+插进去了一个src
+instruction1-start
+ins1-over & ins2-start
+ins2-over
+111111111没问题？
+block_list的问题?
+next插了吗？
+next插了吗？
+next插了吗？
+next插了吗？
+next插了吗？
+next插了吗？
+next插了吗？
+你插进去了吗？
+block_list的问题?
+next插了吗？
+next插了吗？
+next插了吗？
+你插进去了吗？
+block_list的问题?
+next插了吗？
+next插了吗？
+next插了吗？
+next插了吗？
+next插了吗？
+next插了吗？
+next插了吗？
+next插了吗？
+next插了吗？
+next插了吗？
+next插了吗？
+next插了吗？
+你插进去了吗？
+block_list的问题?
+next插了吗？
+next插了吗？
+next插了吗？
+next插了吗？
+next插了吗？
+next插了吗？
+你插进去了吗？
+block_list的问题?
+next插了吗？
+retinstruction有到这里来吗?
+进来了一次
+你插进去了吗？
+block_list的问题?
+next插了吗？
+retinstruction有到这里来吗?
+进来了一次
+你插进去了吗？
+block_list的问题?
+next插了吗？
+你插进去了吗？
+block_list的问题?
+next插了吗？
+next插了吗？
+你插进去了吗？
+block_list的问题?
+next插了吗？
+next插了吗？
+你插进去了吗？
+block_list的问题?
+next插了吗？
+next插了吗？
+retinstruction有到这里来吗?
+进来了一次
+你插进去了吗？
+block_list的问题?
+next插了吗？
+next插了吗？
+next插了吗？
+next插了吗？
+next插了吗？
+next插了吗？
+你插进去了吗？
+block_list的问题?
+next插了吗？
+retinstruction有到这里来吗?
+进来了一次
+你插进去了吗？
+block_list的问题?
+next插了吗？
+retinstruction有到这里来吗?
+进来了一次
+你插进去了吗？
+block_list的问题?
+next插了吗？
+你插进去了吗？
+block_list的问题?
+next插了吗？
+retinstruction有到这里来吗?
+进来了一次
+你插进去了吗？
+block_list的问题?
+next插了吗？
+retinstruction有到这里来吗?
+进来了一次
+你插进去了吗？
+block_list的问题?
+next插了吗？
+你插进去了吗？
+Function有到这里来吗?
+block_list的问题?
+next插了吗？
+next插了吗？
+next插了吗？
+next插了吗？
+next插了吗？
+next插了吗？
+next插了吗？
+next插了吗？
+next插了吗？
+你插进去了吗？
+block_list的问题?
+next插了吗？
+next插了吗？
+next插了吗？
+你插进去了吗？
+block_list的问题?
+next插了吗？
+next插了吗？
+next插了吗？
+next插了吗？
+你插进去了吗？
+block_list的问题?
+next插了吗？
+next插了吗？
+next插了吗？
+next插了吗？
+retinstruction有到这里来吗?
+进来了一次
+你插进去了吗？
+block_list的问题?
+next插了吗？
+retinstruction有到这里来吗?
+进来了一次
+你插进去了吗？
+block_list的问题?
+next插了吗？
+retinstruction有到这里来吗?
+进来了一次
+你插进去了吗？
+block_list的问题?
+next插了吗？
+你插进去了吗？
+Function有到这里来吗?
+unit没问题？
+3333333333没问题？
+4444444444没问题？
+5555555555没问题？
+为什么你不进去呢wj:我输出了
+为什么你不进去呢wj:我输出了
+为什么你不进去呢wj:我输出了
+为什么你不进去呢wj:我输出了
+为什么你不进去呢wj:我输出了
+为什么你不进去呢wj:我输出了
+为什么你不进去呢wj:我输出了
+为什么你不进去呢wj:我输出了
+为什么你不进去呢wj:我输出了
+为什么你不进去呢wj:我输出了
+为什么你不进去呢wj:我输出了
+为什么你不进去呢wj:我输出了
+为什么你不进去呢wj:我输出了
+为什么你不进去呢wj:我输出了
+为什么你不进去呢wj:我输出了
+为什么你不进去呢wj:我输出了
+为什么你不进去呢wj:我输出了
+为什么你不进去呢wj:我输出了
+为什么你不进去呢wj:我输出了
+为什么你不进去呢wj:我输出了
+为什么你不进去呢wj:我输出了
+为什么你不进去呢wj:我输出了
+为什么你不进去呢wj:我输出了
+为什么你不进去呢wj:我输出了
+66666666666没问题？
+TOTAL: 0H-0M-0S-0us

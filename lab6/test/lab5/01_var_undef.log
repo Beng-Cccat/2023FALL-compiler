@@ -1,0 +1,7 @@
+进没进去啊服了
+函数总该有吧
+进没进去啊服了
+identifier "sum" is undefined
+compiler: src/parser.y:98: int yyparse(): Assertion `se != nullptr' failed.
+timeout: the monitored command dumped core
+Aborted

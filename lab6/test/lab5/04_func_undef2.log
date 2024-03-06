@@ -1,0 +1,35 @@
+进没进去啊服了
+函数总该有吧
+进没进去啊服了
+LVal成功
+creating TYPE Size: 32
+创好了mo "2"
+LVal成功
+start operand
+operand
+over3
+start operand
+operand
+over3
+结束了？
+进来了
+是你吗哥
+你是哪里有毛病1
+你是哪里有毛病2
+你是哪里有毛病3
+你是哪里有毛病4
+是你是你1
+是你是你2
+是你是你3
+是你是你4
+是你是你5
+是你是你6
+进来了
+函数总该有吧
+进没进去啊服了
+creating TYPE Size: 32
+创好了mo "1"
+function "new_f" is undefined
+compiler: src/parser.y:213: int yyparse(): Assertion `se != nullptr' failed.
+timeout: the monitored command dumped core
+Aborted

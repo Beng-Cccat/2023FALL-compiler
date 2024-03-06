@@ -1,0 +1,19 @@
+LINECOMMENT	//test comment
+INT	int
+ID	main
+LPAREN	(
+RPAREN	)
+LBRACE	{
+INT	int
+ID	a
+SEMICOLON	;
+ID	a
+ASSIGN	=
+DECIMAL	5	5
+SEMICOLON	;
+LINECOMMENT	//int b = 4;
+LINECOMMENT	//a = b + a;
+RETURN	return
+ID	a
+SEMICOLON	;
+RBRACE	}

@@ -1,0 +1,72 @@
+program
+    FunctionDefine function name: @, type: i32(i32)
+        DeclStmt
+            Id	name: %t0	scope: 1	type: i32
+        CompoundStmt
+            IfStmt
+                BinaryExpr	op: less
+                    Id	name: %t0	scope: 1	type: i32
+                    IntegerLiteral	value: 4	type: i32
+                ReturnStmt
+                    Id	name: %t0	scope: 1	type: i32
+            DeclStmt
+                Id	name: dp	scope: 2	type: [10 x i32]
+            AssignStmt
+                Id	name: dp	scope: 2	type: [10 x i32]
+                    IntegerLiteral	value: 0	type: i32
+                IntegerLiteral	value: 0	type: i32
+            AssignStmt
+                Id	name: dp	scope: 2	type: [10 x i32]
+                    IntegerLiteral	value: 1	type: i32
+                IntegerLiteral	value: 1	type: i32
+            AssignStmt
+                Id	name: dp	scope: 2	type: [10 x i32]
+                    IntegerLiteral	value: 2	type: i32
+                IntegerLiteral	value: 2	type: i32
+            DeclStmt
+                Id	name: i	scope: 2	type: i32
+            AssignStmt
+                Id	name: i	scope: 2	type: i32
+                IntegerLiteral	value: 3	type: i32
+            WhileStmt
+                BinaryExpr	op: less
+                    Id	name: i	scope: 2	type: i32
+                    BinaryExpr	op: add
+                        Id	name: %t0	scope: 1	type: i32
+                        IntegerLiteral	value: 1	type: i32
+                CompoundStmt
+                    AssignStmt
+                        Id	name: dp	scope: 2	type: [10 x i32]
+                            Id	name: i	scope: 2	type: i32
+                        BinaryExpr	op: add
+                            Id	name: dp	scope: 2	type: [10 x i32]
+                                BinaryExpr	op: sub
+                                    Id	name: i	scope: 2	type: i32
+                                    IntegerLiteral	value: 1	type: i32
+                            Id	name: dp	scope: 2	type: [10 x i32]
+                                BinaryExpr	op: sub
+                                    Id	name: i	scope: 2	type: i32
+                                    IntegerLiteral	value: 2	type: i32
+                    AssignStmt
+                        Id	name: i	scope: 2	type: i32
+                        BinaryExpr	op: add
+                            Id	name: i	scope: 2	type: i32
+                            IntegerLiteral	value: 1	type: i32
+            ReturnStmt
+                Id	name: dp	scope: 2	type: [10 x i32]
+                    Id	name: %t0	scope: 1	type: i32
+    FunctionDefine function name: @main, type: i32()
+        CompoundStmt
+            DeclStmt
+                Id	name: res	scope: 2	type: i32
+            DeclStmt
+                Id	name: n	scope: 2	type: i32
+            AssignStmt
+                Id	name: n	scope: 2	type: i32
+                IntegerLiteral	value: 5	type: i32
+            AssignStmt
+                Id	name: res	scope: 2	type: i32
+                CallExpr	function name: @	scope: 0	type: i32(i32)
+                    Id	name: n	scope: 2	type: i32
+            ReturnStmt
+                Id	name: res	scope: 2	type: i32

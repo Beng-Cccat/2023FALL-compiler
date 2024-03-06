@@ -1,0 +1,4 @@
+进没进去啊服了
+compiler: src/SymbolTable.cpp:16: ConstantSymbolEntry::ConstantSymbolEntry(Type*, int): Assertion `type->isInt()' failed.
+timeout: the monitored command dumped core
+Aborted

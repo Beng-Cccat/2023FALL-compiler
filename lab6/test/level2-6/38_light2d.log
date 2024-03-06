@@ -1,0 +1,11 @@
+进没进去啊服了
+creating TYPE Size: 32
+创好了mo "192"
+creating TYPE Size: 32
+创好了mo "192"
+creating TYPE Size: 32
+创好了mo "24"
+进来了
+compiler: src/SymbolTable.cpp:16: ConstantSymbolEntry::ConstantSymbolEntry(Type*, int): Assertion `type->isInt()' failed.
+timeout: the monitored command dumped core
+Aborted
